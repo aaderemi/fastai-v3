@@ -6,4 +6,4 @@ The sample app described here is up at https://fastai-v3.onrender.com. Test it o
 
 The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
 
-# My web app could be found [here](https://what-flower-do-i-have.onrender.com)
+# I created a Web app that classifies the image of a flower into one of 102 classes and it could be found [here](https://what-flower-do-i-have.onrender.com)
